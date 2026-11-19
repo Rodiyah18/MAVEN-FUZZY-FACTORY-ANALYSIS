@@ -1,9 +1,5 @@
 E-Commerce Sales Performance & Customer Behaviour Analysis
 
-"Power BI" (https://img.shields.io/badge/Power%20BI-Analysis-F2C811?logo=powerbi&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-Basics-4479A1?logo=mysql&logoColor=white)
-"Data Analytics" (https://img.shields.io/badge/Project-Data%20Analytics-0C2340)
-
 Project Overview
 
 This project focuses on analysing the sales performance and customer behaviour of Maven Fuzzy Factory, an e-commerce business.
